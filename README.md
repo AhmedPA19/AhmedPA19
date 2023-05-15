@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed Salhi</h1>
 <h3 align="center">A passionate Frontend developer from Algeria</h3>
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AhmedPA19&show_icons=true&theme=radical"/>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+          
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
