@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Salhi</h1>
-<h3 align="center">A passionate Frontend developer from Algeria</h3>
+<h3 align="center">A passionate Frontend developer</h3>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AhmedPA19&show_icons=true&theme=radical"/>
 
